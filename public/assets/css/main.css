@@ -1797,6 +1797,11 @@ input, select, textarea {
 		list-style: disc;
 		padding-left: 1em;
 	}
+	.new-list{
+		list-style: none;
+		padding-left: 1em;
+		text-align: justify;
+	}
 
 		ul li {
 			padding-left: 0.5em;
@@ -2234,7 +2239,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/Portfolio1.gif");
 			}
 
 			#main > section.two {
